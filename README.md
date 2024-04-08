@@ -67,6 +67,7 @@ Pedro Trivelato Ferreira|[Ptrivelato](https://github.com/Ptrivelato)|
 [Link do repositório](https://github.com/Kal-il/achei-barato)
 ##
 
+### Grupo 6:
 ### Descrição do produto:
 Desenvolver uma plataforma de prestação de serviços que conecta prestadores de serviços a usuários, permitindo que os prestadores ofereçam seus serviços e os usuários solicitem os mesmos. A plataforma deve permitir que os prestadores de serviços criem perfis com informações pessoais, habilidades e preços, além de possibilitar a criação de perfis de usuários com informações de contato e preferências. Os usuários devem ser capazes de buscar e filtrar prestadores com base em critérios como localização e classificações, enviar solicitações de serviços e visualizar históricos de transações. Além disso, o sistema deve suportar a avaliação e revisão de prestadores e oferecer funcionalidades de pagamento seguro.
 </br>
