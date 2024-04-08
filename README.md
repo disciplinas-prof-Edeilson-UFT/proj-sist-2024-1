@@ -21,8 +21,8 @@ O "Cronos" é uma plataforma digital de gestão de tempo e de tarefas focadas em
 |Luis Felipe Krause de Castro|[LuisFelipeKrause](https://github.com/LuisFelipeKrause)|
 |João Victor Ribeiro Santos|[Carecovisk](https://github.com/Carecovisk)|
 [Link do repositório](https://github.com/Cronos-Develop)
-##
 
+##
 ### Grupo 2:
 
 #### Descrição do produto:
@@ -45,4 +45,14 @@ Ao progredir no aplicativo, os usuários recebem feedback personalizado, destaca
 |Raphael Sales|[raphaelsales](https://github.com/raphaelsales)|
 Pedro Trivelato Ferreira|[Ptrivelato](https://github.com/Ptrivelato)|
 [Link do repositório](https://github.com/jeovasb00/projeto-ps-2024-1)
+##
+|Nome|Github|
+|---|---|
+|Kalil Garcia Canuto|[Kal-il](https://github.com/Kal-il)|
+|Romeu Miranda Borges|[romeuborges19](https://github.com/romeuborges19)|
+|Ana Flavia Moreira Pires|[ana-flav](https://github.com/ana-flav)|
+|Matheus Henrique Dreher dos Santos|[MatheusDreher](https://github.com/MatheusDreher)|
+|Cássio Coutinho Lima|[tgofsaints](https://github.com/Coutinhopmw)|
+|Maria Clara Nazareno Aires|[mariaclaranaires](https://github.com/mariaclaranaires)|
+[Link do repositório](https://github.com/Kal-il/achei-barato)
 ##
