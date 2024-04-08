@@ -46,16 +46,10 @@ Ao progredir no aplicativo, os usuários recebem feedback personalizado, destaca
 Pedro Trivelato Ferreira|[Ptrivelato](https://github.com/Ptrivelato)|
 [Link do repositório](https://github.com/jeovasb00/projeto-ps-2024-1)
 ##
-|Nome|Github|
-|---|---|
-|Kalil Garcia Canuto|[Kal-il](https://github.com/Kal-il)|
-|Romeu Miranda Borges|[romeuborges19](https://github.com/romeuborges19)|
-|Ana Flavia Moreira Pires|[ana-flav](https://github.com/ana-flav)|
-|Matheus Henrique Dreher dos Santos|[MatheusDreher](https://github.com/MatheusDreher)|
-|Cássio Coutinho Lima|[tgofsaints](https://github.com/Coutinhopmw)|
-|Maria Clara Nazareno Aires|[mariaclaranaires](https://github.com/mariaclaranaires)|
-[Link do repositório](https://github.com/Kal-il/achei-barato)
-##
+### Grupo 4:
+
+#### Descrição do produto:
+Achei Barato é um aplicativo que facilita o acesso a ofertas dos mercados locais, ajudando os consumidores a economizarem em suas compras. Nosso objetivo é tornar a busca pelos menores preços da região algo acessível e parte da rotina, proporcionando economia e organização nas compras. Conectamos os mercados às pessoas interessadas em suas promoções, aumentando a visibilidade e o lucro dos estabelecimentos.
 |Nome|Github|
 |---|---|
 |Kalil Garcia Canuto|[Kal-il](https://github.com/Kal-il)|
