@@ -22,3 +22,13 @@ O "Cronos" é uma plataforma digital de gestão de tempo e de tarefas focadas em
 |João Victor Ribeiro Santos|[Carecovisk](https://github.com/Carecovisk)|
 [Link do repositório](https://github.com/Cronos-Develop)
 ##
+|Nome|Github|
+|---|---|
+|Kalil Garcia Canuto|[Kal-il](https://github.com/Kal-il)|
+|Romeu Miranda Borges|[romeuborges19](https://github.com/romeuborges19)|
+|Ana Flavia Moreira Pires|[ana-flav](https://github.com/ana-flav)|
+|Matheus Henrique Dreher dos Santos|[MatheusDreher](https://github.com/MatheusDreher)|
+|Cássio Coutinho Lima|[tgofsaints](https://github.com/Coutinhopmw)|
+|Maria Clara Nazareno Aires|[mariaclaranaires](https://github.com/mariaclaranaires)|
+[Link do repositório](https://github.com/Kal-il/achei-barato)
+##
