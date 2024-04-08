@@ -46,6 +46,25 @@ Ao progredir no aplicativo, os usuários recebem feedback personalizado, destaca
 Pedro Trivelato Ferreira|[Ptrivelato](https://github.com/Ptrivelato)|
 [Link do repositório](https://github.com/jeovasb00/projeto-ps-2024-1)
 ##
+### Grupo 3:
+
+#### Descrição do produto:
+O aplicativo Amarelinho tem como objetivo conectar autônomos aos seus clientes de forma rápida e acessível, priorizando a simplicidade de uso e a qualidade dos serviços oferecidos. Este documento detalha os requisitos funcionais e não funcionais para o desenvolvimento do aplicativo.
+</br>
+
+</br>
+
+
+|Nome|Github|
+|---|---|
+|Rafael de Oliveira Ribeiro|[rafaeld74](https://github.com/rafaeld74)|
+|João Pedro Noronha de M. Souza|[jpnoronhaa](https://github.com/jpnoronhaa)|
+|Gabriel Tavares dos Santos|[Dev-Gabu](https://github.com/Dev-Gabu)|
+|Caio Henrique Pinho Santos|[CaioHPS3](https://github.com/CaioHPS3)|
+|Emanuel Catão Montenegro|[emanuelcatao](https://github.com/emanuelcatao)|
+|Caio Christhian Lopes Silva|[CaioChristhian](https://github.com/CaioChristhian)|
+[Link do repositório]()
+##
 ### Grupo 4:
 
 #### Descrição do produto:
