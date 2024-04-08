@@ -75,7 +75,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 |Dante Ungarelli|[danteungarelli](https://github.com/danteungarelli)|
 |Daniel Noleto|[Daniel-Noleto](https://github.com/Daniel-Noleto/)|
 |Saulo Ferraz|[SauloFerrazTC](https://github.com/SauloFerrazTC)|
-|João Victor Walcacer|[Carecovisk](https://github.com/Carecovisk)|
+|João Victor Walcacer|[joaovictorwg](https://github.com/joaovictorwg)|
 [Link do repositório](https://github.com/ViniciusDevelopment/Projeto_de_sistemas-2024.1/tree/develop)
 
 ##
