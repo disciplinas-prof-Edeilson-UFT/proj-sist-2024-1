@@ -63,7 +63,7 @@ O aplicativo Amarelinho tem como objetivo conectar autônomos aos seus clientes 
 |Caio Henrique Pinho Santos|[CaioHPS3](https://github.com/CaioHPS3)|
 |Emanuel Catão Montenegro|[emanuelcatao](https://github.com/emanuelcatao)|
 |Caio Christhian Lopes Silva|[CaioChristhian](https://github.com/CaioChristhian)|
-[Link do repositório]()
+[Link do repositório](https://github.com/rafaeld74/Amarelinho-PS)
 ##
 ### Grupo 4:
 
