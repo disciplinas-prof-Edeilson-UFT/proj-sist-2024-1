@@ -82,7 +82,7 @@ Achei Barato é um aplicativo que facilita o acesso a ofertas dos mercados locai
 
 ### Grupo 6:
 ### Descrição do produto:
-Desenvolver uma plataforma de prestação de serviços que conecta prestadores de serviços a usuários, permitindo que os prestadores ofereçam seus serviços e os usuários solicitem os mesmos. A plataforma deve permitir que os prestadores de serviços criem perfis com informações pessoais, habilidades e preços, além de possibilitar a criação de perfis de usuários com informações de contato e preferências. Os usuários devem ser capazes de buscar e filtrar prestadores com base em critérios como localização e classificações, enviar solicitações de serviços e visualizar históricos de transações. Além disso, o sistema deve suportar a avaliação e revisão de prestadores e oferecer funcionalidades de pagamento seguro.
+O Serviço Certo é uma plataforma que busca conectar prestadores de serviços domesticos a clientes de forma fácil, rapida e eficiente. Nesse aplicativo, trabalhadores poderão fazer o seu cadastro e ofertar serviços, colocando a descrição, valores e disponibilidade, agregando confiança e e segurança para si e ao seu trabalho, já os clientes irão fazer o seu cadastro e poderão contratar os prestadores de serviço de forma rápida e segura, tendo milhares de prestadores na palma de sua mão e os recebendo no conforto de sua casa.
 </br>
 
 </br>
@@ -95,7 +95,9 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 |Daniel Noleto|[Daniel-Noleto](https://github.com/Daniel-Noleto/)|
 |Saulo Ferraz|[SauloFerrazTC](https://github.com/SauloFerrazTC)|
 |João Victor Walcacer|[joaovictorwg](https://github.com/joaovictorwg)|
+|Benedito Jaime|[beneX90](https://github.com/beneX90)|
 [Link do repositório](https://github.com/ViniciusDevelopment/Projeto_de_sistemas-2024.1/tree/develop)
+[Link da apresentação técnica](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-1/tree/develop/Servico%20Certo)
 
 ##
 
