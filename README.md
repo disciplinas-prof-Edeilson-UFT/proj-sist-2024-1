@@ -1,0 +1,104 @@
+# Projeto de Sistemas-2024.1 | Universidade Federal do Tocantins - Palmas, 2024
+#### Curso: Bacharelado em Ciência da Computação
+#### Professor: Edeilson Milhomem da Silva.
+
+---
+
+### Grupo 1:
+
+#### Descrição do produto:
+O "Cronos" é uma plataforma digital de gestão de tempo e de tarefas focadas em um objetivo empresarial cujo efeito será a longo ou curto prazo mas que necessita de um método bem definido pelo empresário para ser feita. O diferencial da plataforma é que ela será totalmente orientada pelos dados qualitativos e quantitativos que o usuário fornecer sugerindo alterações em prazos e métodos por meio de soluções de IA. Além disso, há a opção de utilizar a matriz 5W2H ou a matriz GUT ou até mesmo as duas ao mesmo tempo para o planejamento de ações conforme suas prioridades. Portanto, ela é perfeita para micro-empreendedores ou administradores que estão cansados de tanto papel e de interfaces não amigáveis para planejar suas obrigações.
+</br>
+
+</br>
+
+
+|Nome|Github|
+|---|---|
+|Luiz Filipe de Souza Alves|[LuFi-1227](https://github.com/LuFi-1227)|
+|Patryck Henryck Moreira Silva|[PHmore](https://github.com/PHmore)|
+|Antônio Cássio de Oliveira Neto|[ACNprogrammer](https://github.com/ACNprogrammer)|
+|Luis Felipe Krause de Castro|[LuisFelipeKrause](https://github.com/LuisFelipeKrause)|
+|João Victor Ribeiro Santos|[Carecovisk](https://github.com/Carecovisk)|
+[Link do repositório](https://github.com/Cronos-Develop)
+
+##
+### Grupo 2:
+
+#### Descrição do produto:
+O RABBIT é um aplicativo inovador que visa tornar o aprendizado de informática uma experiência acessível, envolvente e divertida para crianças e idosos. Integrando elementos de jogos e interatividade, o RABBIT oferece uma abordagem única para ensinar conceitos básicos de informática.
+
+A interface do aplicativo é projetada para ser intuitiva e amigável, permitindo que até mesmo os usuários menos experientes naveguem facilmente. O RABBIT oferece uma variedade de missões educacionais que abrangem desde a navegação na internet até conceitos de segurança cibernética.
+
+Ao progredir no aplicativo, os usuários recebem feedback personalizado, destacando suas conquistas e identificando áreas para melhorias. O RABBIT é adaptável, ajustando-se às necessidades individuais de cada usuário e oferecendo acesso em dispositivos móveis e desktops para aprendizado em qualquer lugar e a qualquer momento.
+</br>
+
+</br>
+
+
+|Nome|Github|
+|---|---|
+|Helorrayne Cristine|[HeloCris](https://github.com/HeloCris)|
+|Jeová Sousa Barbosa|[jeovasb00](https://github.com/jeovasb00)|
+|Ranor Victor|[ranorvictor](https://github.com/ranorvictor)|
+|Victor Emanuel Campelo|[Victorcampelo14](https://github.com/Victorcampelo14)|
+|Raphael Sales|[raphaelsales](https://github.com/raphaelsales)|
+Pedro Trivelato Ferreira|[Ptrivelato](https://github.com/Ptrivelato)|
+[Link do repositório](https://github.com/jeovasb00/projeto-ps-2024-1)
+##
+### Grupo 3:
+
+#### Descrição do produto:
+O aplicativo Amarelinho tem como objetivo conectar autônomos aos seus clientes de forma rápida e acessível, priorizando a simplicidade de uso e a qualidade dos serviços oferecidos. Este documento detalha os requisitos funcionais e não funcionais para o desenvolvimento do aplicativo.
+</br>
+
+</br>
+
+
+|Nome|Github|
+|---|---|
+|Rafael de Oliveira Ribeiro|[rafaeld74](https://github.com/rafaeld74)|
+|João Pedro Noronha de M. Souza|[jpnoronhaa](https://github.com/jpnoronhaa)|
+|Gabriel Tavares dos Santos|[Dev-Gabu](https://github.com/Dev-Gabu)|
+|Caio Henrique Pinho Santos|[CaioHPS3](https://github.com/CaioHPS3)|
+|Emanuel Catão Montenegro|[emanuelcatao](https://github.com/emanuelcatao)|
+|Caio Christhian Lopes Silva|[CaioChristhian](https://github.com/CaioChristhian)|
+[Link do repositório](https://github.com/rafaeld74/Amarelinho-PS)
+##
+### Grupo 4:
+
+#### Descrição do produto:
+Achei Barato é um aplicativo que facilita o acesso a ofertas dos mercados locais, ajudando os consumidores a economizarem em suas compras. Nosso objetivo é tornar a busca pelos menores preços da região algo acessível e parte da rotina, proporcionando economia e organização nas compras. Conectamos os mercados às pessoas interessadas em suas promoções, aumentando a visibilidade e o lucro dos estabelecimentos.
+|Nome|Github|
+|---|---|
+|Kalil Garcia Canuto|[Kal-il](https://github.com/Kal-il)|
+|Romeu Miranda Borges|[romeuborges19](https://github.com/romeuborges19)|
+|Ana Flavia Moreira Pires|[ana-flav](https://github.com/ana-flav)|
+|Matheus Henrique Dreher dos Santos|[MatheusDreher](https://github.com/MatheusDreher)|
+|Cássio Coutinho Lima|[tgofsaints](https://github.com/Coutinhopmw)|
+|Maria Clara Nazareno Aires|[mariaclaranaires](https://github.com/mariaclaranaires)|
+[Link do repositório](https://github.com/Kal-il/achei-barato)
+##
+
+### Grupo 6:
+### Descrição do produto:
+O Serviço Certo é uma plataforma que busca conectar prestadores de serviços domesticos a clientes de forma fácil, rapida e eficiente. Nesse aplicativo, trabalhadores poderão fazer o seu cadastro e ofertar serviços, colocando a descrição, valores e disponibilidade, agregando confiança e e segurança para si e ao seu trabalho, já os clientes irão fazer o seu cadastro e poderão contratar os prestadores de serviço de forma rápida e segura, tendo milhares de prestadores na palma de sua mão e os recebendo no conforto de sua casa.
+</br>
+
+</br>
+
+
+|Nome|Github|
+|---|---|
+|Vinícius Maciel Pires|[ViniciusDevelopment](https://github.com/ViniciusDevelopment/)|
+|Dante Ungarelli|[danteungarelli](https://github.com/danteungarelli)|
+|Daniel Noleto|[Daniel-Noleto](https://github.com/Daniel-Noleto/)|
+|Saulo Ferraz|[SauloFerrazTC](https://github.com/SauloFerrazTC)|
+|João Victor Walcacer|[joaovictorwg](https://github.com/joaovictorwg)|
+|Benedito Jaime|[beneX90](https://github.com/beneX90)|
+[Link do repositório](https://github.com/ViniciusDevelopment/Projeto_de_sistemas-2024.1/tree/develop)
+[Link da apresentação técnica](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-1/tree/develop/Servico%20Certo)
+
+##
+
+
