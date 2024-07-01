@@ -98,6 +98,9 @@ O Serviço Certo é uma plataforma que busca conectar prestadores de serviços d
 |Benedito Jaime|[beneX90](https://github.com/beneX90)|
 [Link do repositório](https://github.com/ViniciusDevelopment/Projeto_de_sistemas-2024.1/tree/develop)
 [Link da apresentação técnica](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-1/tree/develop/Servico%20Certo)
+[Link da apresentação comercial](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-1/tree/develop/Servico%20Certo)
+[Link da landing page](https://servicocerto.my.canva.site/)
+
 
 ##
 
