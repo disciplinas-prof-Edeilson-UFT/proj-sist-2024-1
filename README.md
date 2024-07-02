@@ -39,7 +39,6 @@ Ao progredir no aplicativo, os usuários recebem feedback personalizado, destaca
 |Nome|Github|
 |---|---|
 |Helorrayne Cristine|[HeloCris](https://github.com/HeloCris)|
-|Jeová Sousa Barbosa|[jeovasb00](https://github.com/jeovasb00)|
 |Ranor Victor|[ranorvictor](https://github.com/ranorvictor)|
 |Victor Emanuel Campelo|[Victorcampelo14](https://github.com/Victorcampelo14)|
 |Raphael Sales|[raphaelsales](https://github.com/raphaelsales)|
@@ -76,9 +75,12 @@ Achei Barato é um aplicativo que facilita o acesso a ofertas dos mercados locai
 |Romeu Miranda Borges|[romeuborges19](https://github.com/romeuborges19)|
 |Ana Flavia Moreira Pires|[ana-flav](https://github.com/ana-flav)|
 |Matheus Henrique Dreher dos Santos|[MatheusDreher](https://github.com/MatheusDreher)|
-|Cássio Coutinho Lima|[tgofsaints](https://github.com/Coutinhopmw)|
-|Maria Clara Nazareno Aires|[mariaclaranaires](https://github.com/mariaclaranaires)|
+|Cássio Coutinho Lima|[Coutinhopmw](https://github.com/Coutinhopmw)|
+|Jeová Sousa Barbosa|[jeovasb00](https://github.com/jeovasb00)|
 [Link do repositório](https://github.com/Kal-il/achei-barato)
+[Link da apresentação tecnica](https://www.canva.com/design/DAGI34_n-mY/61S9W3wz-LESafxhSWt6LA/edit?utm_content=DAGI34_n-mY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Link da apresentação comercial](https://www.canva.com/design/DAGJpVj4Nno/fqo05BGICOsnrvBFDd1yyw/edit?utm_content=DAGJpVj4Nno&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Link da landing page](https://acheibaratoto.my.canva.site/c-pia-de-sustainability-initiatives-business-website-in-light-blue-white-pink-2d-illustration-style)
 ##
 
 ### Grupo 6:
