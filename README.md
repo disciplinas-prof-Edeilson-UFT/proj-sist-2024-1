@@ -3,7 +3,20 @@
 #### Professor: Edeilson Milhomem da Silva.
 
 ---
+# Índice:
+- [Grupos](#grupos)
+  - [Grupo 1](#grupo-1)
+    - [Cronos](#descrição-do-produto)
+  - [Grupo 2](#grupo-2)
+    - [RABBIT](#descrição-do-produto-1)
+  - [Grupo 3](#grupo-3)
+    - [Amarelinho](#descrição-do-produto-2)
+  - [Grupo 4](#grupo-4)
+    - [Achei Barato](#descrição-do-produto-3)
+  - [Grupo 5](#grupo-5)
+    - [Serviço Certo](#descrição-do-produto-4)
 
+# Grupos:
 ### Grupo 1:
 
 #### Descrição do produto:
@@ -86,7 +99,7 @@ Achei Barato é um aplicativo que facilita o acesso a ofertas dos mercados locai
 [Link da landing page](https://acheibaratoto.my.canva.site/c-pia-de-sustainability-initiatives-business-website-in-light-blue-white-pink-2d-illustration-style)
 ##
 
-### Grupo 6:
+### Grupo 5:
 ### Descrição do produto:
 O Serviço Certo é uma plataforma que busca conectar prestadores de serviços domesticos a clientes de forma fácil, rapida e eficiente. Nesse aplicativo, trabalhadores poderão fazer o seu cadastro e ofertar serviços, colocando a descrição, valores e disponibilidade, agregando confiança e e segurança para si e ao seu trabalho, já os clientes irão fazer o seu cadastro e poderão contratar os prestadores de serviço de forma rápida e segura, tendo milhares de prestadores na palma de sua mão e os recebendo no conforto de sua casa.
 </br>
