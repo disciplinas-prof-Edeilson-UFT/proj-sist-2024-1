@@ -3,7 +3,18 @@
 #### Professor: Edeilson Milhomem da Silva.
 
 ---
+# Índice:
+- [Grupos](#grupos)
+  - [Grupo 1](#grupo-1)
+    - [Cronos](#descrição-do-produto)
+  - [Grupo 2](#grupo-2)
+    - [Amarelinho](#descrição-do-produto-1)
+  - [Grupo 3](#grupo-3)
+    - [Achei Barato](#descrição-do-produto-2)
+  - [Grupo 4](#grupo-4)
+    - [Serviço Certo](#descrição-do-produto-3)
 
+# Grupos:
 ### Grupo 1:
 
 #### Descrição do produto:
@@ -29,28 +40,6 @@ O "Cronos" é uma plataforma digital de gestão de tempo e de tarefas focadas em
 ### Grupo 2:
 
 #### Descrição do produto:
-O RABBIT é um aplicativo inovador que visa tornar o aprendizado de informática uma experiência acessível, envolvente e divertida para crianças e idosos. Integrando elementos de jogos e interatividade, o RABBIT oferece uma abordagem única para ensinar conceitos básicos de informática.
-
-A interface do aplicativo é projetada para ser intuitiva e amigável, permitindo que até mesmo os usuários menos experientes naveguem facilmente. O RABBIT oferece uma variedade de missões educacionais que abrangem desde a navegação na internet até conceitos de segurança cibernética.
-
-Ao progredir no aplicativo, os usuários recebem feedback personalizado, destacando suas conquistas e identificando áreas para melhorias. O RABBIT é adaptável, ajustando-se às necessidades individuais de cada usuário e oferecendo acesso em dispositivos móveis e desktops para aprendizado em qualquer lugar e a qualquer momento.
-</br>
-
-</br>
-
-
-|Nome|Github|
-|---|---|
-|Helorrayne Cristine|[HeloCris](https://github.com/HeloCris)|
-|Ranor Victor|[ranorvictor](https://github.com/ranorvictor)|
-|Victor Emanuel Campelo|[Victorcampelo14](https://github.com/Victorcampelo14)|
-|Raphael Sales|[raphaelsales](https://github.com/raphaelsales)|
-Pedro Trivelato Ferreira|[Ptrivelato](https://github.com/Ptrivelato)|
-[Link do repositório](https://github.com/jeovasb00/projeto-ps-2024-1)
-##
-### Grupo 3:
-
-#### Descrição do produto:
 O aplicativo Amarelinho tem como objetivo conectar autônomos aos seus clientes de forma rápida e acessível, priorizando a simplicidade de uso e a qualidade dos serviços oferecidos. Este documento detalha os requisitos funcionais e não funcionais para o desenvolvimento do aplicativo.
 </br>
 
@@ -68,7 +57,7 @@ O aplicativo Amarelinho tem como objetivo conectar autônomos aos seus clientes 
 [Link do repositório](https://github.com/rafaeld74/Amarelinho-PS)
 [Link da landing page](https://amarelinho.my.canva.site/)
 ##
-### Grupo 4:
+### Grupo 3:
 
 #### Descrição do produto:
 Achei Barato é um aplicativo que facilita o acesso a ofertas dos mercados locais, ajudando os consumidores a economizarem em suas compras. Nosso objetivo é tornar a busca pelos menores preços da região algo acessível e parte da rotina, proporcionando economia e organização nas compras. Conectamos os mercados às pessoas interessadas em suas promoções, aumentando a visibilidade e o lucro dos estabelecimentos.
@@ -86,7 +75,7 @@ Achei Barato é um aplicativo que facilita o acesso a ofertas dos mercados locai
 [Link da landing page](https://acheibaratoto.my.canva.site/c-pia-de-sustainability-initiatives-business-website-in-light-blue-white-pink-2d-illustration-style)
 ##
 
-### Grupo 6:
+### Grupo 4:
 ### Descrição do produto:
 O Serviço Certo é uma plataforma que busca conectar prestadores de serviços domesticos a clientes de forma fácil, rapida e eficiente. Nesse aplicativo, trabalhadores poderão fazer o seu cadastro e ofertar serviços, colocando a descrição, valores e disponibilidade, agregando confiança e e segurança para si e ao seu trabalho, já os clientes irão fazer o seu cadastro e poderão contratar os prestadores de serviço de forma rápida e segura, tendo milhares de prestadores na palma de sua mão e os recebendo no conforto de sua casa.
 </br>
@@ -107,7 +96,4 @@ O Serviço Certo é uma plataforma que busca conectar prestadores de serviços d
 [Link da apresentação comercial](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-1/tree/develop/Servico%20Certo)
 [Link da landing page](https://servicocerto.my.canva.site/)
 
-
 ##
-
-
