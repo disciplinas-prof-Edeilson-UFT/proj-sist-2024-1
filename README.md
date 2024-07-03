@@ -21,6 +21,9 @@ O "Cronos" é uma plataforma digital de gestão de tempo e de tarefas focadas em
 |Luis Felipe Krause de Castro|[LuisFelipeKrause](https://github.com/LuisFelipeKrause)|
 |João Victor Ribeiro Santos|[Carecovisk](https://github.com/Carecovisk)|
 [Link do repositório](https://github.com/Cronos-Develop)
+[Link da Landing Page](https://cronoslandpage.my.canva.site/)
+[Link da apresentação Técnica](https://docs.google.com/presentation/d/1hraben7qfGpdokoHTLEpZyBPwYt0aCSHTi3w2iR--pQ/edit?usp=sharing)
+[Link da apresentação Comercial](https://docs.google.com/presentation/d/1xAD_z7wHJgSpe63Ec49ZSAvtCtGCUWYF7ADn_d20a24/edit?usp=sharing)
 
 ##
 ### Grupo 2:
