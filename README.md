@@ -4,6 +4,9 @@
 
 ---
 # Índice:
+- [Notícias](#noticias)
+  - [Realização do evento](#realização-do-evento)
+    - [Startupse Transformando ideias em negocios na UFT](#startupse-transformando-ideias-em-negocios-na-uft)
 - [Grupos](#grupos)
   - [Grupo 1](#grupo-1)
     - [Cronos](#descrição-do-produto)
@@ -13,6 +16,10 @@
     - [Achei Barato](#descrição-do-produto-2)
   - [Grupo 4](#grupo-4)
     - [Serviço Certo](#descrição-do-produto-3)
+
+# Notícias:
+## Realização do Evento:
+- ### [Startupse Transformando ideias em negocios na UFT](https://www.uft.edu.br/noticias/startupse-transformando-ideias-em-negocios-na-uft)
 
 # Grupos:
 ### Grupo 1:
