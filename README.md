@@ -4,7 +4,12 @@
 
 ---
 # Índice:
-- [Notícias](#noticias)
+- [Evento](#evento)
+  - [Startup-se](#startup-se)
+    - [Logo](#logo)
+    - [Fotos do Evento](#fotos-do-evento)
+      - [Fotos com a banca](#fotos-com-a-banca)
+      - [Fotos com a Turma](#fotos-com-a-turma)
   - [Realização do evento](#realização-do-evento)
     - [Startupse Transformando ideias em negocios na UFT](#startupse-transformando-ideias-em-negocios-na-uft)
 - [Grupos](#grupos)
@@ -17,7 +22,20 @@
   - [Grupo 4](#grupo-4)
     - [Serviço Certo](#descrição-do-produto-3)
 
-# Notícias:
+# Evento:
+## Startup-se:
+![Banner de exposição retrátil de tecnologia e eletrônicos estilo tecnológico moderno em azul e rosa](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-1/assets/129668645/2310156a-d916-46b3-aebd-cc180d3abe8a)
+
+### Logo:
+![startupse](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-1/assets/129668645/a239dbe8-732f-43d9-b279-0476bb140c81)
+
+### Fotos do evento:
+#### Fotos com a banca:
+![WhatsApp Image 2024-07-04 at 17 59 55](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-1/assets/129668645/8db03083-0097-4600-8bdb-0fb9d2d63cd9)
+
+#### Fotos com a turma:
+![WhatsApp Image 2024-07-04 at 17 59 34](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-1/assets/129668645/32ba86be-0957-4028-b4a2-3b1de3948a4c)
+
 ## Realização do Evento:
 - ### [Startupse Transformando ideias em negocios na UFT](https://www.uft.edu.br/noticias/startupse-transformando-ideias-em-negocios-na-uft)
 
