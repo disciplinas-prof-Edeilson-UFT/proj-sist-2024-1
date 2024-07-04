@@ -56,8 +56,8 @@ O aplicativo Amarelinho tem como objetivo conectar autônomos aos seus clientes 
 |Caio Christhian Lopes Silva|[CaioChristhian](https://github.com/CaioChristhian)|
 [Link do repositório](https://github.com/rafaeld74/Amarelinho-PS)
 [Link da landing page](https://amarelinho.my.canva.site/)
-[Link da apresentação Técnica]([https://docs.google.com/presentation/d/1hraben7qfGpdokoHTLEpZyBPwYt0aCSHTi3w2iR--pQ/edit?usp=sharing](https://www.canva.com/design/DAGI357Ymw8/2g8J49y411IBaJqce3Xd7g/edit?utm_content=DAGI357Ymw8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
-[Link da apresentação Comercial]([https://docs.google.com/presentation/d/1xAD_z7wHJgSpe63Ec49ZSAvtCtGCUWYF7ADn_d20a24/edit?usp=sharing](https://www.canva.com/design/DAGJSkFtPKU/CyDdCCNoH1-OE2TahaysOw/edit?utm_content=DAGJSkFtPKU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+[Link da apresentação Técnica](https://www.canva.com/design/DAGI357Ymw8/2g8J49y411IBaJqce3Xd7g/edit?utm_content=DAGI357Ymw8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Link da apresentação Comercial](https://www.canva.com/design/DAGJSkFtPKU/CyDdCCNoH1-OE2TahaysOw/edit?utm_content=DAGJSkFtPKU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ##
 ### Grupo 3:
 
